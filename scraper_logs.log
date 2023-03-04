@@ -1,0 +1,310 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.5:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 104-580-437
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 16:29:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 16:30:17] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos age...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos age...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 16:30:21] "POST /details HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 16:30:21] "[33mGET /static/css/style2.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 205-237-428
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:20:31] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos age...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos age...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:20:39] "[35m[1mPOST /details HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:20:39] "GET /details?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:20:39] "GET /details?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:20:39] "GET /details?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:20:39] "[36mGET /details?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos age...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos age...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:21:13] "[35m[1mPOST /details HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:21:13] "[36mGET /details?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:21:13] "[36mGET /details?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 17:21:13] "[36mGET /details?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 205-237-428
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 205-237-428
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:12:14] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos age...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos age...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:12:20] "[35m[1mPOST /details HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:12:20] "[36mGET /details?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:12:20] "[36mGET /details?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:12:20] "[36mGET /details?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:18:55] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos time posted...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos time posting...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:19:02] "POST /details HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:19:02] "[33mGET /static/css/style2.css HTTP/1.1[0m" 404 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:19:34] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos time posted...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos time posting...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:19:41] "POST /details HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:19:41] "[33mGET /static/css/style2.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:23:42] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos age...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos ...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:23:49] "POST /details HTTP/1.1" 200 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:23:53] "[33mGET /static/css/style2.css HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app1.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug: * Detected change in '/config/workspace/You Tube Scrapper/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:36:09] "GET / HTTP/1.1" 200 -
+INFO:root:Requesting HTML...
+INFO:root:Finding titles...
+INFO:root:Finding thumbnails...
+INFO:root:Finding links...
+INFO:root:Finding view counts...
+INFO:root:Finding videos age...
+INFO:root:Storing titles...
+INFO:root:Storing thumbnails...
+INFO:root:Storing links...
+INFO:root:Storing viewcounts...
+INFO:root:Storing videos ...
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:36:21] "[35m[1mPOST /details HTTP/1.1[0m" 500 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:36:21] "[36mGET /details?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:36:21] "[36mGET /details?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:36:21] "[36mGET /details?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:172.18.0.2 - - [04/Mar/2023 18:36:22] "[36mGET /details?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.18.0.10:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 485-940-634
